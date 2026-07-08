@@ -1,4 +1,4 @@
-# Jophie Lang Nguyen
+# Jophiella Nguyen
 
 > Building Trustworthy, Human-Centered AI Systems.
 
