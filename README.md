@@ -27,7 +27,7 @@ My projects are organized under:
 
 A research portfolio exploring AI systems, infrastructure, and applications.
 
-🔗 [Trustworthy AI Systems Lab](link-to-your-repo)
+🔗 [Trustworthy AI Systems Lab](https://github.com/jophiellanguyen/trustworthy-ai-systems)
 
 ---
 
